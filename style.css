@@ -1,6 +1,6 @@
 body{
   margin: 0;
-}
+  font-family:sans-serif, pretendard;
 
 .simbol{
   width: 50px; /* 로고의 가로 크기 */
@@ -28,18 +28,17 @@ letter-spacing: -1px
 line-height: 1;
 }
 .text-type2{
-  font-size: 7.5vw;
+  font-size: 7vw;
   font-weight:800;
-  color: #825419;
+  color: #b1761c;
   }
 
 .text-type3{
-    font-size: 3vw;
+    font-size: 2.5vw;
     font-weight: 600;
     text-align: left;
     margin-left: 10px;
-    color: #432804;
-    letter-spacing: -1px
+    color: #040404;
     }
 
 
